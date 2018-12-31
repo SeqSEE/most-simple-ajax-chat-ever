@@ -1,6 +1,7 @@
 **Most Simple Ajax Chat Ever - For wordpress**
 
 Based on "Most Simple Ajax Chat Ever"
+https://github.com/metachris/most-simple-ajax-chat-ever
 
 http://www.metachris.com/projects/most-simple-ajax-chat-ever/
 

@@ -9,7 +9,7 @@ Features
 
 * Super simple
 * efficient spam filter
-* only 2 files needed (index.html, w.php)
+* only 5 files needed (index.html, w.php, get-chat.php, .htaccess, log folder)
 * css styles & usernames
 + Forced HTTPS usage
 + Apache handling to secure the chat

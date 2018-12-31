@@ -30,7 +30,3 @@ Setup in 2 steps
 
 
 License: MIT
-
-This project was [featured on Wired](http://www.wired.com/2006/02/simple_ajax_chat) in February 2006!
-
-[Original site on web.archive.org](https://web.archive.org/web/20080213154015/http://www.linuxuser.at/index.php?title=Most_Simple_Ajax_Chat_Ever).
